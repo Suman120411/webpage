@@ -306,3 +306,80 @@ p{
     display: flex;
     justify-content: center;
 }
+/* </....................................................................................................> */
+
+.main{
+    height: 500px;
+    width: 600px;
+    /* border: 1px solid; */
+     display: flex;
+    justify-content: center;
+     align-items: center;
+}
+.main1{
+    height: 350px;
+    width: 350px;
+    /* border: 1px solid ; */
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0px 10px 20px gray;
+    /* justify-content: center; */
+}
+.intel{
+    display: flex;
+    justify-content: center;
+}
+.cap{
+    width: 250px;
+    height: 50px;
+    border: 1px solid;
+    margin-bottom: 30px;
+    display: flex;
+    margin-left: 50px;
+    border-radius: 5px;
+    
+    img{
+        width: 30px;
+        height: 30px;
+        margin-top: 10px;
+    }
+    input{
+        border: none;
+        outline: none;
+    }
+}
+.pen{
+    width: 250px;
+    height: 50px;
+    border: 1px solid;
+    display: flex;
+    margin-left: 50px;
+    border-radius: 5px;
+    img{
+        width: 30px;
+        height: 30px;
+        margin-top: 10px;
+    }
+    input{
+        border: none;
+        outline: none;
+    }
+
+}
+.Remember{
+    display: flex;
+}
+.me{
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+}
+.out{
+    width: 120px;
+    height: 35px;
+    background-color: orange;
+    color: #EAEAEA;
+    border-radius: 5px;
+    margin-top: 20px;
+    border: none;
+}
